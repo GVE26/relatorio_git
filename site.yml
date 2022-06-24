@@ -1,0 +1,11 @@
+name: "Teste site"
+output_dir: "docs"
+
+output:
+  html_document:
+    theme: spacelab
+    highlight: textmate
+    toc: yes
+    toc_float:
+     collapsed: yes
+     smooth_scroll: yes
